@@ -59,7 +59,8 @@ while True:
 
 🐦 Twitter：@GreatNoob（日常分享与编译器的爱恨情仇）
 
-💬 WeChat：扫右边二维码→ ![image](https://github.com/user-attachments/assets/286de3cc-81a4-42b0-a277-02ef1dc64f14)
+💬 WeChat：扫下方二维码→ !
+[image](https://github.com/user-attachments/assets/286de3cc-81a4-42b0-a277-02ef1dc64f14)
 （请备注"GitHub观光团"）
 
 📍 物理坐标：中国·某个有Wi-Fi的结界中 🌍
