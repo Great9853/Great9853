@@ -54,12 +54,7 @@ while(1){
 
 💬 WeChat：扫下方二维码
 
- ->https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f
-
-🐦 Twitter：@EmbeddedNoob（日常分享与示波器的虐恋）
-
-💬 WeChat：扫下方二维码
-→ https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f
+→ ![giphy](https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f)
 
 （请备注"GCC观光团"）
 
