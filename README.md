@@ -54,7 +54,7 @@ while(1){
 
 💬 WeChat：扫下方二维码
 
- https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f
+ ->https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f
 
 
 （请备注"GCC观光团"）
