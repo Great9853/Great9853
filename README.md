@@ -1,87 +1,48 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.init(Great9853);>>+Loading+Kernel+Modules...;>>+Mounting+FileSystem...;>>+Starting+Hardware+Abstraction+Layer...&font=Fira+Code&center=true&width=500&height=50&color=00BFFF&vCenter=true&pause=1000&duration=3000" alt="Boot Sequence" />
-  </a>
 
-  <img src="https://i.pinimg.com/originals/34/46/73/3446735520a7b489d2643a123f11d17d.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px; border: 1px solid #007ACC;" alt="Cyber Header" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Booting...+Init+Kernel...;User:+Jasper+Hsiung+(Great9853);Target:+Embedded+Hardware+Master;Status:+Interrupts+Enabled+✅&font=Fira+Code&center=true&width=500&height=60&color=00BFFF&vCenter=true&pause=1000&duration=4000" alt="Boot Sequence" />
+</a>
+
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm95Ynd2Y3B4Y2p6Z3Z4ZmE2emg2Mm56ZHZ5NmZ5ZmZ5ZmZ5ZmZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmMdhuP5Z2HjM5N8tV/giphy.gif" width="100%" height="40" alt="Signal Waveform" />
+
+<p>
+  <img src="https://img.shields.io/badge/CORE-ARM_Cortex--M-007ACC?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-FreeRTOS-00BFFF?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER-Coffee_Injection-1E90FF?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
 
 </div>
 
-<br/>
+---
 
-<table>
-  <tr>
-    <td width="55%" valign="top" style="background-color: #0d1117; color: #c9d1d9; font-family: 'Courier New', monospace;">
-      <pre>
-<span style="color: #ff7b72">class</span> <span style="color: #79c0ff">Great9853</span> <span style="color: #ff7b72">extends</span> <span style="color: #79c0ff">Embedded_Engineer</span> {
+### 🖥️ System Output (Kernel Log)
 
-  <span style="color: #8b949e">// 📡 Basic Configuration</span>
-  <span style="color: #ff7b72">const</span> USERNAME = <span style="color: #a5d6ff">"Jasper Hsiung"</span>;
-  <span style="color: #ff7b72">const</span> ROLE     = <span style="color: #a5d6ff">"Driver Developer"</span>;
-  <span style="color: #ff7b72">const</span> LOCATION = <span style="color: #a5d6ff">"0xChina_ESD_Zone"</span>;
+```yaml
+[0.000123] [INFO]  Initializing Human_Resource_Module...
+[0.000245] [INFO]  Loaded Profile: Great9853 (Jasper Hsiung)
+[0.000310] [INFO]  Mounting Filesystem: /home/embedded_gardener
 
-  <span style="color: #8b949e">// ⚡ Main Loop</span>
-  <span style="color: #d2a8ff">void</span> <span style="color: #d2a8ff">run_daily_routine</span>() {
-    <span style="color: #ff7b72">while</span>(<span style="color: #79c0ff">true</span>) {
-       <span style="color: #d2a8ff">catch</span>(MemoryLeak);
-       <span style="color: #d2a8ff">debug</span>(Oscilloscope);
-       <span style="color: #d2a8ff">drink</span>(Coffee::0xDEADBEEF);
+# ---------------- USER DEFINITION ---------------- #
+struct Engineer {
+    const char* name     = "Great9853";
+    const char* role     = "Register & Pointer Dancer";
+    const char* location = "CN_Static_Field_Zone"; // 静电结界
+    bool  is_coffee_lover = true;
+    
+    void daily_task() {
+        while( !stack_overflow ) {
+            code_c_plus_plus();
+            debug_hardware();
+            fight_entropy(); // 与混乱对抗
+        }
     }
-  }
-
-  <span style="color: #8b949e">// 🏆 Recent Interrupts (Achievements)</span>
-  <span style="color: #d2a8ff">List</span>&lt;<span style="color: #79c0ff">Log</span>&gt; <span style="color: #d2a8ff">get_system_logs</span>() {
-    <span style="color: #ff7b72">return</span> [
-      <span style="color: #a5d6ff">"[SUCCESS] UART Hello World (8h)"</span>,
-      <span style="color: #a5d6ff">"[WARN] STM32 & ESP32 Panic"</span>,
-      <span style="color: #a5d6ff">"[INFO] Quantum Tunneling: Coffee->Code"</span>
-    ];
-  }
 };
-      </pre>
-    </td>
+# ------------------------------------------------- #
 
-    <td width="45%" valign="top">
-      
-      <div style="border: 2px solid #00BFFF; border-radius: 6px; overflow: hidden; background-color: #000;">
-        
-        <div style="background-color: #00BFFF; color: #000; padding: 5px; font-weight: bold; font-family: monospace; font-size: 12px;">
-          📊 SYSTEM MONITOR - PID: 9853
-        </div>
-
-        <div align="center" style="padding: 15px 0;">
-           <a href="https://git.io/typing-svg">
-             <img src="https://readme-typing-svg.herokuapp.com/?lines=SCANNING+CORE+MODULES...;C%2B%2B+KERNEL......%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%5D+90%25;EMBEDDED+C......%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%5D+90%25;PYTHON+SCRIPT...%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%5D+75%25;RTOS+TASK.......%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+60%25;HARDWARE+DESIGN.%5B%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%5D+80%25&font=Courier+New&color=00BFFF&size=16&center=true&width=380&height=50&duration=2000&pause=500" alt="Skill Loading" />
-           </a>
-        </div>
-
-        <div style="padding: 0 10px; color: #007ACC; font-family: monospace; font-size: 10px;">
-          <p>> CPU_TEMP: 45°C | FAN: 3000RPM</p>
-          <p>> MEM_FREE: 0x20000000 bytes</p>
-          <p>> WATCHDOG: ENABLED 🐶</p>
-        </div>
-      </div>
-
-      <br/>
-
-      <div style="border: 1px dashed #30363d; padding: 10px; border-radius: 6px;">
-        <h4 style="margin:0; color: #79c0ff;">// Interfaces</h4>
-        <a href="mailto:great9853@qq.com">
-           <img src="https://img.shields.io/badge/MAIL-connect()-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" height="20">
-        </a>
-        <br>
-        <div style="margin-top:5px"></div>
-        <a href="#">
-           <img src="https://img.shields.io/badge/WECHAT-scan()-007ACC?style=for-the-badge&logo=wechat&logoColor=white" height="20">
-        </a>
-      </div>
-
-    </td>
-  </tr>
-</table>
-
-<div align="center" style="font-family: monospace; color: #8b949e; margin-top: 20px;">
-  <p><code>return 0; // Execution finished successfully</code></p>
-  <img src="https://img.shields.io/badge/Power-ON-success?style=flat-square&color=00BFFF" />
-</div>
+[0.000560] [WARN]  Detection: Right pinky finger deformation (CTRL key usage > 99%)
+[0.000620] [INFO]  Hobby[0]: "Hide & Seek with Memory Leaks"
+[0.000622] [INFO]  Hobby[1]: "Drawing ECG with Oscilloscope"
+[0.000625] [INFO]  Hobby[2]: "Collecting dusty dev-boards"
+⏳ Loading Modules (技能栈动态加载)<div align="center"><a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DLoad%2BModule:%2BC%252FC%252B%252B%2BCore......[██████████]+99%25+DONE;Load+Module:+PCB+Design......[████████░░]+80%25+DONE;Load+Module:+Python+Tools....[███████░░░]+70%25+WAIT;Load+Module:+RTOS+Kernel.....[█████████░]+90%25+DONE;Load+Module:+JTAG+Magic......[██████████]+100%25+READY&font=Fira+Code&center=true&width=500&height=50&color=00BFFF&vCenter=true&pause=500&duration=3000&background=00000000" alt="Skill Loading Bar" /></a></div>🛠️ Hardware Interfaces (I/O & Equipments)<table><tr><td width="30%"><pre>.---./| () () |\  ^  /||||||||||</pre><div align="center"><i>Engineer.obj</i></div></td><td width="70%"><b>🚀 Recent Interrupts (近期成就):</b><ul><li><code>[IRQ_01]</code> <b>Hello World:</b> 通过 UART 打印耗时 8h (Bitrate 9600) 📟</li><li><code>[IRQ_02]</code> <b>Quantum Leap:</b> 实现 ☕️ Coffee $\rightarrow$ 💾 MachineCode 转换</li><li><code>[IRQ_03]</code> <b>Cross-Platform:</b> STM32 & ESP32 双重 Panic 达成 🤯</li></ul><b>📡 Communication (联系方式):</b><code> > Email: great9853@qq.com </code> (Parity: Even, StopBits: 1)<code> > Wechat: SCAN_QR_CODE </code> (Note: "GCC Tour Group")</td></tr></table><div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGreat9853%26show_icons%3Dtrue%26theme%3Dtokyonight%26bg_color%3D0D1117%26hide_border%3Dtrue%26title_color%3D00BFFF%26icon_color%3D00BFFF" alt="Stats" /></div><div align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/LmMdhuP5Z2HjM5N8tV/giphy.gif" width="100%" height="2" alt="Divider" /><p><code>EOF: End of Firmware. Watchdog active. 🐶</code></p></div>
