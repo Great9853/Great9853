@@ -1,114 +1,145 @@
-✨🎉 欢迎光临我的代码游乐场！我是 Great9853，一个在寄存器与指针间跳探戈的嵌入式园丁 🔧🌱
+<div align="center">
 
-👇 下面是我的非官方自我介绍（官方版本被JTAG吃掉了 🔌）
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&width=600&lines=👋+Hello,+World!+I'm+Great9853;🔧+Embedded+Gardener+in+Registers;⚡+Refactoring+0xDEADBEEF+into+Coffee;📈+Drawing+EKGs+with+Oscilloscopes" alt="Typing SVG" />
+</a>
 
-🤖 关于我
-🎮 兴趣：与内存泄漏玩捉迷藏 | 用示波器画心电图 📈 | 收集各种吃灰的开发板 📦
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 
-🌱 学习日常：在C++模板元编程中量子纠缠 💫 | 驯服野生的交叉编译器 🦖 | 定期给MCU献祭咖啡 ☕
+<br/>
 
-🔥 隐藏成就：连续点亮32个LED不翻车 | 成功让看门狗饿肚子3天 🐶 | Makefile巫术十级认证 🧙
+<code>IsSystemStable() ? "Keep Coding" : "Git Reset --hard"</code>
 
-⚡ 冷知识：我的右手小指有Ctrl键压痕 ⌨️ | 认为0xDEADBEEF是最好喝的咖啡口味 ☕
+<br/>
+<br/>
 
-🛠️ 技术装备库
+<a href="mailto:great9853@qq.com">
+  <img src="https://img.shields.io/badge/Email-great9853%40qq.com-005A9C?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/EmbeddedNoob">
+  <img src="https://img.shields.io/badge/Twitter-%40EmbeddedNoob-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Coordinates-0x7FFFFFFF-lightgrey?style=flat-square&logo=google-maps&logoColor=005A9C" />
 
-c
-复制
-下载
-while(1){
+</div>
 
+---
 
+### 🤖 **System Status: Online** (About Me)
 
+> ⚠️ **Warning:** *Official bio consumed by JTAG debugger. Loading backup...* 🔋
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 核心驱动 (Kernel)</h3>
+      <ul>
+        <li><b>🔭 正在研究：</b> 在 C++ 模板元编程中进行量子纠缠 💫</li>
+        <li><b>🌱 正在学习：</b> 驯服野生的交叉编译器 & 时序分析 🦖</li>
+        <li><b>☕ 能量来源：</b> <code>0xDEADBEEF</code> 口味的咖啡 & MCU 献祭仪式</li>
+        <li><b>⚡ 隐藏成就：</b>
+          <ul>
+            <li>连续点亮 32 个 LED 不翻车</li>
+            <li>成功让看门狗 (Watchdog) 饿肚子 3 天 🐶</li>
+            <li>Makefile 巫术十级认证 🧙</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>📈 运行指标 (Metrics)</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Great9853&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4682B4&icon_color=58A6FF" width="100%" />
+    </td>
+  </tr>
+</table>
 
+---
 
+### 🛠️ **Weaponry & Protocol Stack** (Tech Stack)
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-A9A9A9?style=for-the-badge&logo=intel&logoColor=white" />
 
+<img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/RTOS-181717?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
+</div>
 
+---
 
+### 🧬 **Source Code Injection**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    volatile int* reg = (int*)0x40021000;
-    *reg |= (1 << 5);  // 点亮第5号GPIO
-    for(int i=0; i<0xFFFFF; i++); // 嵌入式式延时
-
-
-
-
-
+```c
+// 嵌入式心跳循环 v2.0
+void Main_Task(void) {
+    // 初始化咖啡浓度校验
+    Hardware_Init(COFFEE_LEVEL_MAX); 
+    
+    while(1) {
+        volatile int* reg = (int*)0x40021000;
+        
+        // 尝试与Datasheet谈恋爱
+        if (Datasheet_Understanding > 90) {
+            *reg |= (1 << 5);  // 点亮希望之光 (GPIO 5)
+        } else {
+             Google_Search("Why my code hardfault");
+        }
+        
+        // 模拟嵌入式延时 (Don't optimize me!)
+        for(int i=0; i<0xFFFFF; i++) {
+            __asm("NOP"); // 思考人生...
+        }
+    }
 }
-👉 核心领域：嵌入式系统开发 | 硬件抽象层设计 | 驱动开发（擅长与datasheet谈恋爱 📑）
-👉 技能树：C/C++（人柱力） | Python（胶水大师） | Java（安卓底层魔法）
-👉 必杀技：寄存器精准爆破 | 内存泄漏狩猎术 | 时序分析之眼 ⏱️
-👉 防御技能：JTAG护体结界 | 防静电手环常驻BUFF ⚡ | 万用表终极格挡
+📊 Contribution Graph (Oscilloscope Mode)
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DGreat9853%26bg_color%3D0D1117%26color%3D4682B4%26line%3D58A6FF%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue" width="100%" /> </div>
 
-🚀 近期成就解锁
-▨ 成功让开发板说出"Hello World"（通过UART，耗时8小时）📟
-▨ 写出跨平台代码（在STM32和ESP32上都panic了）🤯
-▨ 用Python给硬件测试写了个自动化框架（然后硬件说我太抽象）🐍
-▨ 实现咖啡因→机器码的量子隧穿 ☕➡️💾
-
-🤝 求组队信号
-寻找这样的队友：
-
-▨ 能区分堆栈溢出的内存侦探 🕵️♂️
-▨ 觉得GPIO点灯是行为艺术的极客 🎨
-▨ 坚信"这个中断很快"是FLAG的预言家 🚩
-▨ 想用机器码雕刻星辰的硬核玩家 🌌
-
-合作方向：
-
-▨ 开发会自己写日志的智能硬件 📝
-▨ 打造物联网界的瑞士军刀 📶
-▨ 复现《钢铁侠》的贾维斯嵌入式版 🤖
-▨ 发明能自动生成设备树的神器 🌳
-
-📮 召唤阵式
-📧 邮箱：great9853@qq.com（波特率自适应，校验位=咖啡浓度）
-
-🐦 Twitter：@EmbeddedNoob（日常分享与示波器的虐恋）
-
-💬 WeChat：扫下方二维码
-
-→ ![giphy](https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f)
-
-（请备注"GCC观光团"）
-
-📍 物理坐标：中国·某个有静电地板的结界 ⚡
-
-最后送上嵌入式哲学：
+🤝 Handshake Protocol (Let's Team Up)
+<table> <tr> <td width="50%"> <b>寻找队友 (Looking for Group):</b>
 
 
-（请备注"GCC观光团"）
 
-📍 物理坐标：中国·某个有静电地板的结界 ⚡
+🕵️‍♂️ 能区分堆栈溢出的内存侦探
 
-最后送上嵌入式哲学：
-"最亮的灯永远是同事工位上的那个LED" —— 特斯拉（才怪）
 
-⚠️ 警告：本README由90%的机器周期和10%的中断服务组成，最终解释权归我的开发板所有 🔋
+🎨 觉得GPIO点灯是行为艺术的极客
+
+
+🚩 坚信"这个中断很快"是FLAG的预言家
+
+
+🌌 想用机器码雕刻星辰的硬核玩家 </td> <td width="50%"> <b>召唤阵式 (Contact):</b>
+
+
+
+📧 <b>Email:</b> <code>great9853@qq.com</code>
+
+
+<i>(Baud rate adaptive, Parity=Coffee)</i>
+
+
+
+💬 <b>WeChat:</b> 扫下方二维码 (备注"GCC观光团")
+
+
+📍 <b>Loc:</b> 中国·某个有静电地板的结界 ⚡ </td> </tr> </table>
+
+<div align="center">
+
+
+<i>"最亮的灯永远是同事工位上的那个 LED" —— 特斯拉（才怪）</i>
+
+
+
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D003366%26height%3D100%26section%3Dfooter" width="100%"/> </div>
