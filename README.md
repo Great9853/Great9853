@@ -1,73 +1,64 @@
-✨🎉 欢迎光临我的代码游乐场！我是 Great9853，一个在寄存器与指针间跳探戈的嵌入式园丁 🔧🌱
+<div align="center">
+  <h1>⚡ Hello, I'm Great9853 ⚡</h1>
+  <h3>/* 一个在寄存器与指针间跳探戈的嵌入式园丁 🔧🌱 */</h3>
+  
+  <p>
+    <a href="#-tech-stack">
+      <img src="https://img.shields.io/badge/Firmware-Running-success?style=flat&color=2ea44f" alt="Status" />
+    </a>
+    <a href="#-contact">
+      <img src="https://img.shields.io/badge/Coffee-0xDEADBEEF-brown" alt="Coffee" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/JTAG-Connected-blue" alt="JTAG" />
+    </a>
+  </p>
+</div>
 
-👇 下面是我的非官方自我介绍（官方版本被JTAG吃掉了 🔌）
+---
 
-🤖 关于我
-🎮 兴趣：与内存泄漏玩捉迷藏 | 用示波器画心电图 📈 | 收集各种吃灰的开发板 📦
+### 📋 System Information (关于我)
 
-🌱 学习日常：在C++模板元编程中量子纠缠 💫 | 驯服野生的交叉编译器 🦖 | 定期给MCU献祭咖啡 ☕
-
-🔥 隐藏成就：连续点亮32个LED不翻车 | 成功让看门狗饿肚子3天 🐶 | Makefile巫术十级认证 🧙
-
-⚡ 冷知识：我的右手小指有Ctrl键压痕 ⌨️ | 认为0xDEADBEEF是最好喝的咖啡口味 ☕
-
-🛠️ 技术装备库
-
-c
-复制
-下载
-while(1){
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🤖 User Profile</h3>
+      <ul>
+        <li><b>ID:</b> Great9853 (Official Version ate by JTAG 🔌)</li>
+        <li><b>Role:</b> Embedded System Engineer / Hardware Abstraction Artist</li>
+        <li><b>Hobbies:</b>
+            <ul>
+                <li>与内存泄漏玩捉迷藏 🙈</li>
+                <li>用示波器画心电图 📈</li>
+                <li>收集各种吃灰的开发板 📦</li>
+            </ul>
+        </li>
+        <li><b>Daily Loop:</b>
+            <ul>
+                <li>在 C++ 模板元编程中量子纠缠 💫</li>
+                <li>驯服野生的交叉编译器 🦖</li>
+                <li>定期给 MCU 献祭咖啡 ☕</li>
+            </ul>
+        </li>
+        <li><b>Fun Facts:</b>
+            <ul>
+                <li>右手小指有 Ctrl 键永久压痕 ⌨️</li>
+                <li>坚信 <code>0xDEADBEEF</code> 是最好喝的咖啡口味</li>
+            </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="40%">
+      <h3>🧠 Core Logic</h3>
+      ```c
+// My Daily Routine
+while(1) {
     volatile int* reg = (int*)0x40021000;
-    *reg |= (1 << 5);  // 点亮第5号GPIO
-    for(int i=0; i<0xFFFFF; i++); // 嵌入式式延时
+    // 点亮第5号GPIO (心动的感觉)
+    *reg |= (1 << 5); 
+    
+    // 嵌入式式延时 (思考人生)
+    for(int i=0; i<0xFFFFF; i++) {
+       __NOP();
+    }
 }
-👉 核心领域：嵌入式系统开发 | 硬件抽象层设计 | 驱动开发（擅长与datasheet谈恋爱 📑）
-👉 技能树：C/C++（人柱力） | Python（胶水大师） | Java（安卓底层魔法）
-👉 必杀技：寄存器精准爆破 | 内存泄漏狩猎术 | 时序分析之眼 ⏱️
-👉 防御技能：JTAG护体结界 | 防静电手环常驻BUFF ⚡ | 万用表终极格挡
-
-🚀 近期成就解锁
-▨ 成功让开发板说出"Hello World"（通过UART，耗时8小时）📟
-▨ 写出跨平台代码（在STM32和ESP32上都panic了）🤯
-▨ 用Python给硬件测试写了个自动化框架（然后硬件说我太抽象）🐍
-▨ 实现咖啡因→机器码的量子隧穿 ☕➡️💾
-
-🤝 求组队信号
-寻找这样的队友：
-
-▨ 能区分堆栈溢出的内存侦探 🕵️♂️
-▨ 觉得GPIO点灯是行为艺术的极客 🎨
-▨ 坚信"这个中断很快"是FLAG的预言家 🚩
-▨ 想用机器码雕刻星辰的硬核玩家 🌌
-
-合作方向：
-
-▨ 开发会自己写日志的智能硬件 📝
-▨ 打造物联网界的瑞士军刀 📶
-▨ 复现《钢铁侠》的贾维斯嵌入式版 🤖
-▨ 发明能自动生成设备树的神器 🌳
-
-📮 召唤阵式
-📧 邮箱：great9853@qq.com（波特率自适应，校验位=咖啡浓度）
-
-🐦 Twitter：@EmbeddedNoob（日常分享与示波器的虐恋）
-
-💬 WeChat：扫下方二维码
-
-→ ![giphy](https://github.com/user-attachments/assets/8115a9e2-be1d-4819-bded-bc513a0aab6f)
-
-（请备注"GCC观光团"）
-
-📍 物理坐标：中国·某个有静电地板的结界 ⚡
-
-最后送上嵌入式哲学：
-
-
-（请备注"GCC观光团"）
-
-📍 物理坐标：中国·某个有静电地板的结界 ⚡
-
-最后送上嵌入式哲学：
-"最亮的灯永远是同事工位上的那个LED" —— 特斯拉（才怪）
-
-⚠️ 警告：本README由90%的机器周期和10%的中断服务组成，最终解释权归我的开发板所有 🔋
